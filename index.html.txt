@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to My First Website</title>
+</head>
+<body>
+  <h1>Hello, I’m Kerem!</h1>
+  <p>This is my first HTML project. I'm learning software engineering.</p>
+  <p>My hobbies are playing games and coding.</p>
+</body>
+</html>
