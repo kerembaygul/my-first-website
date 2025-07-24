@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Welcome to My First Website</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>Hello, I’m Kerem!</h1>
@@ -9,3 +10,4 @@
   <p>My hobbies are playing games and coding.</p>
 </body>
 </html>
+<link rel="stylesheet" href="style.css">
